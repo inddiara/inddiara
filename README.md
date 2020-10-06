@@ -8,4 +8,4 @@
 
  :mag_right: How to reach me: [Linkedin](https://www.linkedin.com/in/inddiara/)
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=inddiara&theme=dark&show_icons=true&count_private=true" alt="status">
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=inddiara&theme=dark&show_icons=true&count_private=true" alt="status">
